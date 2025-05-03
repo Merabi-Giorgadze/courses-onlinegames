@@ -296,6 +296,9 @@
     text-decoration: none;
     font-weight: bold;
     transition: background 0.3s;
+    margin-top: 10px;
+    width:100%;
+    text-align: center;
 }
 
 .btn-about:hover {
